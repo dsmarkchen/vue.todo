@@ -55,4 +55,10 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+
+/deep/ .table > tbody > tr > td {
+text-align: left;
+}
+
+</style>
